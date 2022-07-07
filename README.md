@@ -1,1 +1,1 @@
-# rx_debounce_vs_trottle
+# rx_debounce_vs_throttle
