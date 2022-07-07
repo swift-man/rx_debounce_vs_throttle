@@ -1,1 +1,7 @@
-# rx_debounce_vs_throttle
+# RxSwift debounce vs throttle
+
+## debounce
+![Image](/devounce.png)  
+
+## throttle
+![Image](/throttle.png)
