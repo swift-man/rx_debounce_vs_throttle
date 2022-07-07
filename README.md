@@ -1,7 +1,7 @@
 # RxSwift debounce vs throttle
 
 ## debounce
-![Image](/devounce.png)  
+![Image](/debounce.png)  
 
 ## throttle
 ![Image](/throttle.png)
